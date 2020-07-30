@@ -1,4 +1,5 @@
 ---
+theme: hacker
 defaults:
   - scope:
       path: ""
