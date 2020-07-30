@@ -1,5 +1,5 @@
 ---
-theme: hacker
+theme: jekyll-theme-hacker
 defaults:
   - scope:
       path: ""

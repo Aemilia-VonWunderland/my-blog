@@ -1,5 +1,5 @@
 ---
-# something
+layout: default
 ---
 
 exerpt: this is the first blog
@@ -12,7 +12,7 @@ Learning materials:
 - Other examples https://github.com/collections/github-pages-examples
 
 ## steps to post a blog here
-- write a blog in markdown, and save the file to _posts (note the template: should add "")
+- write a blog in markdown, and save the file to _posts (note the template: should add "front matter")
 - name the file: YYYY-MM-DD-title-of-the-post.md
 - git add, commit, push
 - I don't even need to install jekyll locally! Github.io will render it.
